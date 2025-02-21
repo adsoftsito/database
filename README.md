@@ -7,3 +7,6 @@
 
 # frontend
 [slides frontend](https://docs.google.com/presentation/d/1NA_v4bnxVR78789okk6yJDuziMb9V5_wbS6ke93m-T8/edit?usp=sharing)
+
+# mysql
+[slides mysql](https://docs.google.com/presentation/d/1qNwbdtJOeVCEhb-0b2P522h1lKBIZQuXF7wKR0AF7RY/edit?usp=sharing)
