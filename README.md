@@ -10,3 +10,7 @@
 
 # mysql
 [slides mysql](https://docs.google.com/presentation/d/1qNwbdtJOeVCEhb-0b2P522h1lKBIZQuXF7wKR0AF7RY/edit?usp=sharing)
+
+# Parcial 3
+[JWT-spring-boot](https://www.bezkoder.com/spring-boot-security-postgresql-jwt-authentication/)
+[deploy spring-boot](https://docs.google.com/presentation/d/1P1ylYSL9c0aJcO2JxHQxiFecEcw8k9Gw3UHm941oozc/edit?usp=sharing)
